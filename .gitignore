@@ -1,0 +1,14 @@
+# Ignore React build output
+/build/
+/node_modules/
+
+# Ignore Express generated files
+/dist/
+/node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# envireonment variables
+.env
