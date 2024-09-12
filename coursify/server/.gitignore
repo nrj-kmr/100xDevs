@@ -1,0 +1,6 @@
+# environment variables
+.env
+
+# Ignore express generated files
+/dist
+/node_modules
